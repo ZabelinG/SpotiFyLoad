@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotiFyLoad", "SpotiFyLoad\SpotiFyLoad.csproj", "{74712633-302B-4F73-8FCA-EF5A92137896}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotiFyLoad.HelpLibrary", "SpotiFyLoad.HelpLibrary\SpotiFyLoad.HelpLibrary.csproj", "{D5736F24-2AD5-4FD5-B1D2-D63CF38EE3DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74712633-302B-4F73-8FCA-EF5A92137896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74712633-302B-4F73-8FCA-EF5A92137896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74712633-302B-4F73-8FCA-EF5A92137896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74712633-302B-4F73-8FCA-EF5A92137896}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5736F24-2AD5-4FD5-B1D2-D63CF38EE3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5736F24-2AD5-4FD5-B1D2-D63CF38EE3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5736F24-2AD5-4FD5-B1D2-D63CF38EE3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5736F24-2AD5-4FD5-B1D2-D63CF38EE3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
